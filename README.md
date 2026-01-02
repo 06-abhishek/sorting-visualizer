@@ -9,7 +9,7 @@ Instead of reading abstract logic, this project lets you **see every comparison,
 ## 🚀 Live Demo
 
 **Try it here:**  
-**[🌐 Live Demo: Access the Visualizer Here](https://sortvisualizer.com/)**
+**[🌐 Live Demo: Access the Visualizer Here](https://sorting-visualizer-liart-sigma.vercel.app/)**
 
 ---
 
