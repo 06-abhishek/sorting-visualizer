@@ -177,9 +177,9 @@ Just fork the repo, create a branch, and submit a PR.
 
 **Abhishek Patil**
 
-- GitHub: [https://github.com/your-username](https://github.com/06-abhishek/)
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-patil-27759630b/)
-- Email: [your.email@example.com](mailto:abhishekp.7841@gmail.com)
+- GitHub: [GitHub](https://github.com/06-abhishek/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhishek-patil-27759630b/)
+- Email: [Email](mailto:abhishekp.7841@gmail.com)
 
 ---
 
